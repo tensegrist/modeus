@@ -1,0 +1,3 @@
+[workspace]
+
+members = [ "modeus-common", "modeus-client", "modeus-server" ]
